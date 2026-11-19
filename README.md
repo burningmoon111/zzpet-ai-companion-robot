@@ -35,6 +35,8 @@
 
 ## 固件与文档
 
+- [ZZPET-BOT v1.3.4 固件](ZZPET-BOT%2Bv1.3.4.bin)
+- [项目目标固件](target.bin)
 - [固件状态与校验值](docs/firmware-status.md)
 - [硬件说明](docs/hardware.md)
 - [刷写说明](docs/flashing.md)

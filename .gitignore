@@ -1,0 +1,30 @@
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python utilities
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration and credentials
+.env
+.env.*
+*.local
+
+# Firmware build output
+build/
+*.elf
+*.map
+*.o
+*.obj
+*.hex
+*.bin
+
+# Generated documents and temporary files
+~$*
+*.tmp
+*.log
